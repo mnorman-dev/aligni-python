@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "aligni-python"
-version = "0.0.2-alpha.0"
+version = "0.0.1"
 description = "Python library for interfacing to the Aligni (PLM/MRP) API"
 authors = [
     "Mark Norman <mpnorman@gmail.com>",

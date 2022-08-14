@@ -5,9 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
-## [0.0.2-alpha.0] - 2022-08-14
-### Added
+## [0.0.1] - 2022-08-14
 - Initial release
 
-[Unreleased]: https://github.com/mnorman-dev/aligni-python/compare/0.0.2-alpha.0...master
-[0.0.2-alpha.0]: https://github.com/mnorman-dev/aligni-python/tree/0.0.2-alpha.0
+[Unreleased]: https://github.com/mnorman-dev/aligni-python/compare/0.0.1...master
+[0.0.1]: https://github.com/mnorman-dev/aligni-python/tree/0.0.1
